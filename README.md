@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Expense Manager App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An expense manager React application bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that consumes an Express Restful API.
 
 ## Available Scripts
 
